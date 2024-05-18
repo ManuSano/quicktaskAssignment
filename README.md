@@ -1,0 +1,2 @@
+# quicktaskAssignment
+Flutter application assignment. 
